@@ -45,13 +45,13 @@
  .header{
 		width: 100%;
 		height: 236px;
-		background: no-repeat center url("../../static/keybroad.png") /auto 100% ;
+		background: no-repeat center url("../../static/keybroad.jpg") /auto 100% ;
 	}
 @media (min-width: 1346px){
  .header{
 		width: 100%;
 		height: 236px;
-		background: no-repeat center url("../../static/keybroad.png") /100% auto ;
+		background: no-repeat center url("../../static/keybroad.jpg") /100% auto ;
 	}
 }
 .title{

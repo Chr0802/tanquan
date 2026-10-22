@@ -2,7 +2,7 @@
 	<div class="home">
 		<head-nav></head-nav>
 		<div style="overflow: hidden;">
-			<img src="../../static/bgg.png">
+			<img src="../../static/bgg.jpg">
 		</div>
 		<foot-bar></foot-bar>
 	</div>
